@@ -1,0 +1,356 @@
+{
+  "company": [
+    {
+      "companyId": 1,
+      "company": "Hudson, Hane and Schmidt",
+      "LineFarm": 247,
+      "SheadArea": 7109,
+      "FeedArea": 6642,
+      "OpenArea": 5368,
+      "TotalArea": 8015,
+      "children": [
+        {
+          "RegionId": 1,
+          "Region": "Assam",
+          "LineFarm": 8,
+          "SheadArea": 127109,
+          "FeedArea": 226642,
+          "OpenArea": 225368,
+          "TotalArea": 568015,
+          "children": [
+            {
+              "UnitId": 1,
+              "Unit": "Samastipur",
+              "LineFarm": 8,
+              "SheadArea": 67889,
+              "FeedArea": 986541,
+              "OpenArea": 907754,
+              "TotalArea": 1276433,
+              "children": [
+                {
+                  "LineId": 1,
+                  "Line": "Ashok Nagar",
+                  "LineFarm": 2,
+                  "SheadArea": 35699,
+                  "FeedArea": 89453,
+                  "OpenArea": 129067,
+                  "TotalArea": 2788901
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "RegionId": 2,
+          "Region": "Bihar",
+          "LineFarm": 10,
+          "SheadArea": 157109,
+          "FeedArea": 256642,
+          "OpenArea": 305368,
+          "TotalArea": 668015
+        },
+        {
+          "RegionId": 3,
+          "Region": "Delhi",
+          "LineFarm": 12,
+          "SheadArea": 107109,
+          "FeedArea": 206642,
+          "OpenArea": 125368,
+          "TotalArea": 468015
+        }
+      ]
+    },
+    {
+      "companyId": 2,
+      "company": "Corkery, Smitham and Smitham",
+      "LineFarm": 998,
+      "SheadArea": 7816,
+      "FeedArea": 6188,
+      "OpenArea": 8810,
+      "TotalArea": 1067,
+      "children": [
+        {
+          "RegionId": 4,
+          "Region": "Gujarat",
+          "LineFarm": 20,
+          "SheadArea": 107116,
+          "FeedArea": 126642,
+          "OpenArea": 156368,
+          "TotalArea": 268015,
+          "children": [
+            {
+              "UnitId": 2,
+              "Unit": "Ahmedabad",
+              "LineFarm": 12,
+              "SheadArea": 90109,
+              "FeedArea": 206642,
+              "OpenArea": 307754,
+              "TotalArea": 508405
+            },
+            {
+              "UnitId": 3,
+              "Unit": "Vadodara",
+              "LineFarm": 14,
+              "SheadArea": 78109,
+              "FeedArea": 156642,
+              "OpenArea": 98754,
+              "TotalArea": 333495
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyId": 3,
+      "company": "Stokes-Gibson",
+      "LineFarm": 662,
+      "SheadArea": 4326,
+      "FeedArea": 843,
+      "OpenArea": 6357,
+      "TotalArea": 274,
+      "children": [
+        {
+          "RegionId": 5,
+          "Region": "Hyderabad",
+          "LineFarm": 85,
+          "SheadArea": 287109,
+          "FeedArea": 196642,
+          "OpenArea": 25368,
+          "TotalArea": 568015
+        },
+        {
+          "RegionId": 6,
+          "Region": "Mumbai",
+          "LineFarm": 110,
+          "SheadArea": 257109,
+          "FeedArea": 956642,
+          "OpenArea": 105368,
+          "TotalArea": 668015
+        }
+      ]
+    },
+    {
+      "companyId": 4,
+      "company": "Davis, Sawayn and Bode",
+      "LineFarm": 120,
+      "SheadArea": 10210,
+      "FeedArea": 6712,
+      "OpenArea": 5453,
+      "TotalArea": 9215,
+      "children": [
+        {
+          "RegionId": 7,
+          "Region": "Karnataka",
+          "LineFarm": 24,
+          "SheadArea": 30110,
+          "FeedArea": 125641,
+          "OpenArea": 205363,
+          "TotalArea": 528015,
+          "children": [
+            {
+              "UnitId": 4,
+              "Unit": "Bangalore",
+              "LineFarm": 18,
+              "SheadArea": 78129,
+              "FeedArea": 256642,
+              "OpenArea": 377754,
+              "TotalArea": 508415
+            }
+          ]
+        },
+        {
+          "RegionId": 8,
+          "Region": "Kerala",
+          "LineFarm": 22,
+          "SheadArea": 147109,
+          "FeedArea": 226641,
+          "OpenArea": 325368,
+          "TotalArea": 768015
+        }
+      ]
+    },
+    {
+      "companyId": 5,
+      "company": "Hilll Group",
+      "LineFarm": 412,
+      "SheadArea": 8812,
+      "FeedArea": 7212,
+      "OpenArea": 5312,
+      "TotalArea": 14345,
+      "children": [
+        {
+          "RegionId": 9,
+          "Region": "Maharashtra",
+          "LineFarm": 32,
+          "SheadArea": 117109,
+          "FeedArea": 186642,
+          "OpenArea": 275368,
+          "TotalArea": 578015,
+          "children": [
+            {
+              "UnitId": 5,
+              "Unit": "Pune",
+              "LineFarm": 10,
+              "SheadArea": 67810,
+              "FeedArea": 120645,
+              "OpenArea": 180754,
+              "TotalArea": 260433
+            },
+            {
+              "UnitId": 6,
+              "Unit": "Nagpur",
+              "LineFarm": 12,
+              "SheadArea": 50129,
+              "FeedArea": 176642,
+              "OpenArea": 140754,
+              "TotalArea": 408405
+            }
+          ]
+        },
+        {
+          "RegionId": 10,
+          "Region": "Tamil Nadu",
+          "LineFarm": 25,
+          "SheadArea": 175109,
+          "FeedArea": 226542,
+          "OpenArea": 305368,
+          "TotalArea": 608015
+        }
+      ]
+    },{
+      "companyId": 6,
+      "company": "Company 6 Inc",
+      "LineFarm": 186,
+      "SheadArea": 6159,
+      "FeedArea": 6574,
+      "OpenArea": 6917,
+      "TotalArea": 7416
+    },
+    {
+      "companyId": 7,
+      "company": "Company 7 Corp",
+      "LineFarm": 135,
+      "SheadArea": 5265,
+      "FeedArea": 7782,
+      "OpenArea": 7882,
+      "TotalArea": 7345
+    },
+    {
+      "companyId": 8,
+      "company": "Company 8 Ltd",
+      "LineFarm": 109,
+      "SheadArea": 5294,
+      "FeedArea": 7817,
+      "OpenArea": 6542,
+      "TotalArea": 8634
+    },
+    {
+      "companyId": 9,
+      "company": "Company 9 Corp",
+      "LineFarm": 263,
+      "SheadArea": 6779,
+      "FeedArea": 7097,
+      "OpenArea": 6483,
+      "TotalArea": 8589
+    },
+    {
+      "companyId": 10,
+      "company": "Company 10 Corp",
+      "LineFarm": 161,
+      "SheadArea": 5272,
+      "FeedArea": 6998,
+      "OpenArea": 7732,
+      "TotalArea": 8208
+    },
+    {
+      "companyId": 11,
+      "company": "Company 11 Group",
+      "LineFarm": 164,
+      "SheadArea": 5263,
+      "FeedArea": 5848,
+      "OpenArea": 7667,
+      "TotalArea": 8546
+    },
+    {
+      "companyId": 12,
+      "company": "Company 12 Group",
+      "LineFarm": 275,
+      "SheadArea": 7282,
+      "FeedArea": 6404,
+      "OpenArea": 5099,
+      "TotalArea": 7474
+    },
+    {
+      "companyId": 13,
+      "company": "Company 13 Corp",
+      "LineFarm": 257,
+      "SheadArea": 7163,
+      "FeedArea": 7913,
+      "OpenArea": 7963,
+      "TotalArea": 8210
+    },
+    {
+      "companyId": 14,
+      "company": "Company 14 Inc",
+      "LineFarm": 209,
+      "SheadArea": 7813,
+      "FeedArea": 7481,
+      "OpenArea": 5509,
+      "TotalArea": 7759
+    },
+    {
+      "companyId": 15,
+      "company": "Company 15 Group",
+      "LineFarm": 289,
+      "SheadArea": 6900,
+      "FeedArea": 5571,
+      "OpenArea": 5433,
+      "TotalArea": 8449
+    },
+    {
+      "companyId": 16,
+      "company": "Company 16 Corp",
+      "LineFarm": 107,
+      "SheadArea": 5234,
+      "FeedArea": 7416,
+      "OpenArea": 6505,
+      "TotalArea": 8335
+    },
+    {
+      "companyId": 17,
+      "company": "Company 17 Corp",
+      "LineFarm": 135,
+      "SheadArea": 6729,
+      "FeedArea": 6718,
+      "OpenArea": 6869,
+      "TotalArea": 7251
+    },
+    {
+      "companyId": 18,
+      "company": "Company 18 Corp",
+      "LineFarm": 259,
+      "SheadArea": 6839,
+      "FeedArea": 5888,
+      "OpenArea": 5633,
+      "TotalArea": 7152
+    },
+    {
+      "companyId": 19,
+      "company": "Company 19 Group",
+      "LineFarm": 294,
+      "SheadArea": 7679,
+      "FeedArea": 5052,
+      "OpenArea": 7960,
+      "TotalArea": 7005
+    },
+    {
+      "companyId": 20,
+      "company": "Company 20 Group",
+      "LineFarm": 298,
+      "SheadArea": 7485,
+      "FeedArea": 5662,
+      "OpenArea": 7891,
+      "TotalArea": 7851
+    }
+  ]
+}
